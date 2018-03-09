@@ -1,7 +1,7 @@
 {
     "room":   "Music For Everyone",
     "author": "Máro || ΜFΣ",
-    "css":    "https://rawgit.com/Rohlicek/MFE-Relaunch/master/css_mfe.css",
+    "css":    "https://rawgit.com/Maro1310/m-f-e/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot":    true,
