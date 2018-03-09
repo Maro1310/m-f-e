@@ -1,1 +1,15 @@
+/* room */
 
+.icon {
+	background-image: url(https://i.imgur.com/oneZnS3.png); 
+}
+
+#room .icon.icon-room {
+	background: url(https://i.imgur.com/nY4PP7u.png);
+}
+
+#room .room-background {
+	background: url(https://i.imgur.com/nzkYiOl.png) no-repeat !important;
+}
+
+/* staff colors */
