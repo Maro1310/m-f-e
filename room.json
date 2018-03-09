@@ -1,1 +1,18 @@
-
+{
+    "room":   "Music For Everyone",
+    "author": "Máro || ΜFΣ",
+    "css":    "https://rawgit.com/Rohlicek/MFE-Relaunch/master/css_mfe.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": true,
+        "forceSmartVote":   false
+    },
+    "images": {
+        "playback": "https://i.imgur.com/Px4FWJK.png"
+    }
+}
