@@ -14,10 +14,6 @@
 
 /*--- staff colors ---*/
 
-#waitlist .is-staff .thumb {
-    	border-color: #224fab !important;
-}
-
 /* host, cohost */
 #chat .role-host .from .un,
 #chat .role-cohost .from .un,
